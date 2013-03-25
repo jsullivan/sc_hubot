@@ -2,12 +2,10 @@
   "redis-brain.coffee",
   "tweet.coffee",
   "shipit.coffee",
+  "hangout.coffee",
   "ascii.coffee",
   "achievement_unlocked.coffee",
-  "hangout",
-  "meme_generator",
-  "mitch-hedberg",
-  "nice",
-  "ruby",
-  "snow"
+  "nice.coffee",
+  "ruby.coffee",
+  "snow.coffee"
 ]
