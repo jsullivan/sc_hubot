@@ -1,1 +1,1 @@
-web: bin/hubot -a flowdock -n Alfred
+web: bin/hubot -n Alfred
