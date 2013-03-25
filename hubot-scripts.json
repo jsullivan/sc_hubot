@@ -1,1 +1,13 @@
-["redis-brain.coffee", "tweet.coffee", "shipit.coffee"]
+[
+  "redis-brain.coffee",
+  "tweet.coffee",
+  "shipit.coffee",
+  "ascii.coffee",
+  "achievement_unlocked.coffee",
+  "hangout",
+  "meme_generator",
+  "mitch-hedberg",
+  "nice",
+  "ruby",
+  "snow"
+]
